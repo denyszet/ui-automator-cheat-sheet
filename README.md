@@ -6,4 +6,4 @@ Practical samples and more useful information can be found in [*Android Espresso
 
 See also my [*Android Espresso-Web Cheat Sheet*](https://github.com/denyszelenchuk/espresso-web-cheat-sheet).
 
-Visit my blog https://testyour.app/blog/.
+Visit my blog https://testyour.app/blog.
