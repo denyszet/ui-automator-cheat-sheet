@@ -1,4 +1,4 @@
-# UI Automator cheat sheet
+# UIAutomator cheat sheet
 
 <img src="./uiautomator_cheat_sheet.jpg" alt="Illustration of the UI Automator API."/>
 
