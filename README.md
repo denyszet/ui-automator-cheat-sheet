@@ -7,3 +7,7 @@ Practical samples and more useful information can be found in [*Android Espresso
 See also my [*Android Espresso-Web Cheat Sheet*](https://github.com/denyszelenchuk/espresso-web-cheat-sheet).
 
 Visit my blog https://testyour.app/blog.
+
+<a href="https://www.buymeacoffee.com/dmzet" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="160">
+</a>
